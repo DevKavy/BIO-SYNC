@@ -52,4 +52,5 @@ Conventional decomposition is slow, inefficient, and yields minimal usable outpu
 ---
 
 ## 📁 Repository Structure (MVP)
+👉 See [OWNERSHIP_DECLARATION.md](./OWNERSHIP_DECLARATION.md) for legal authorship.
 
